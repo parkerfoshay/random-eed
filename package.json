@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0",
+    "random-date-generator": "^1.0.2",
+    "unique-names-generator": "^4.6.0"
+  }
+}

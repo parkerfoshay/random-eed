@@ -9,7 +9,7 @@ const fs = require("fs");
 
 async function createData() {
   let dataArray = [];
-  let numberOfUsers = 50;
+  let numberOfUsers = 500;
   let getUserInfo = await fetchAPI(
     `https://randomuser.me/api/?results=${numberOfUsers}`
   );

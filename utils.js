@@ -1,12 +1,3 @@
-const {
-  uniqueNamesGenerator,
-  names,
-  adjectives,
-  animals,
-  colors,
-  countries,
-} = require("unique-names-generator");
-
 const axios = require("axios");
 
 async function fetchAPI(url) {
@@ -72,7 +63,7 @@ async function rndInventory() {
 }
 
 function rndBool() {
-  return Math.random() < 0.5;
+  return Math.random() < 0.6;
 }
 
 module.exports = {

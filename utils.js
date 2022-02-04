@@ -7,16 +7,16 @@ const {
   countries,
 } = require("unique-names-generator");
 
-const axios = require('axios');
+const axios = require("axios");
 
 async function fetchAPI(url) {
-    try {
-      const response = await axios.get(url);
-      return response.data
-    } catch (error) {
-      console.error(error);
-    }
+  try {
+    const response = await axios.get(url);
+    return response.data;
+  } catch (error) {
+    console.error(error);
   }
+}
 
 function rndScore() {
   let arrayOfNumbers = [];
@@ -31,29 +31,30 @@ function rndScore() {
 
 function rndAmount() {
   let number = Math.random() * 1000;
-  return parseFloat(number.toFixed(2))
+  return parseFloat(number.toFixed(2));
 }
 
-function rndTags() {
-  let tagsArray = [];
+async function rndPromoCodes() {
+  let codeArray = [];
+  let numberOfCodes = Math.floor(Math.random() * 15);
+  let data = await fetchAPI(
+    `https://random-data-api.com/api/commerce/random_commerce?size=${numberOfCodes}`
+  );
 
-  const config = {
-    dictionaries: [adjectives],
-  };
-
-  for (let i = 0; i < 10; i++) {
-    let tagName = uniqueNamesGenerator(config);
-    tagsArray.push(tagName);
+  for (let i = 0; i < numberOfCodes; i++) {
+    codeArray.push(data[i].promo_code);
   }
 
-  return tagsArray;
+  return codeArray;
 }
 
 async function rndInventory() {
   let arrayOfInventory = [];
-  let numberOfItems = Math.floor(Math.random() * 25)
+  let numberOfItems = Math.floor(Math.random() * 25);
 
-  let data = await fetchAPI(`https://random-data-api.com/api/appliance/random_appliance?size=${numberOfItems}`)
+  let data = await fetchAPI(
+    `https://random-data-api.com/api/appliance/random_appliance?size=${numberOfItems}`
+  );
 
   for (let i = 0; i < numberOfItems; i++) {
     let randomNumber = Math.random() * 125;
@@ -61,9 +62,9 @@ async function rndInventory() {
       uid: data[i].uid,
       brand: data[i].brand,
       item: data[i].equipment,
-      price: parseFloat(randomNumber.toFixed(2))
+      price: parseFloat(randomNumber.toFixed(2)),
     };
-    
+
     arrayOfInventory.push(inventoryObj);
   }
 
@@ -74,4 +75,11 @@ function rndBool() {
   return Math.random() < 0.5;
 }
 
-module.exports = { rndBool, rndInventory, rndTags, fetchAPI, rndAmount, rndScore }
+module.exports = {
+  rndBool,
+  rndInventory,
+  rndPromoCodes,
+  fetchAPI,
+  rndAmount,
+  rndScore,
+};

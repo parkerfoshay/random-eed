@@ -7,6 +7,17 @@ const {
   countries,
 } = require("unique-names-generator");
 
+const axios = require('axios');
+
+async function fetchAPI(url) {
+    try {
+      const response = await axios.get(url);
+      return response.data
+    } catch (error) {
+      console.error(error);
+    }
+  }
+
 function rndScore() {
   let arrayOfNumbers = [];
 
@@ -19,17 +30,8 @@ function rndScore() {
 }
 
 function rndAmount() {
-  return Math.random() * 1000;
-}
-
-function rndName() {
-  const config = {
-    dictionaries: [names],
-  };
-
-  const characterName = uniqueNamesGenerator(config);
-
-  return characterName;
+  let number = Math.random() * 1000;
+  return parseFloat(number.toFixed(2))
 }
 
 function rndTags() {
@@ -47,37 +49,29 @@ function rndTags() {
   return tagsArray;
 }
 
-function rndPets() {
-  let arrayOfPets = [];
+async function rndInventory() {
+  let arrayOfInventory = [];
+  let numberOfItems = Math.floor(Math.random() * 25)
 
-  const config = {
-    dictionaries: [adjectives],
-  };
+  let data = await fetchAPI(`https://random-data-api.com/api/appliance/random_appliance?size=${numberOfItems}`)
 
-  for (let i = 0; i < Math.floor(Math.random() * 5); i++) {
-    let petObj = {
-      petName: uniqueNamesGenerator({ dictionaries: [names] }),
-      animal: uniqueNamesGenerator({ dictionaries: [animals] }),
-      age: Math.floor(Math.random() * 14),
+  for (let i = 0; i < numberOfItems; i++) {
+    let randomNumber = Math.random() * 125;
+    let inventoryObj = {
+      uid: data[i].uid,
+      brand: data[i].brand,
+      item: data[i].equipment,
+      price: parseFloat(randomNumber.toFixed(2))
     };
-    arrayOfPets.push(petObj);
+    
+    arrayOfInventory.push(inventoryObj);
   }
 
-  return arrayOfPets;
-}
-
-function rndAddress() {
-  let address = {
-    streetNumber: Math.floor(Math.random() * 9999),
-    street: uniqueNamesGenerator({ dictionaries: [colors, ["ST"]] }),
-    country: uniqueNamesGenerator({ dictionaries: [countries] }),
-  };
-
-  return address;
+  return arrayOfInventory;
 }
 
 function rndBool() {
   return Math.random() < 0.5;
 }
 
-module.exports = { rndBool, rndAddress, rndPets, rndTags, rndName, rndAmount, rndScore }
+module.exports = { rndBool, rndInventory, rndTags, fetchAPI, rndAmount, rndScore }

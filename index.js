@@ -9,12 +9,13 @@ const fs = require("fs");
 
 async function createData() {
   let dataArray = [];
-  let numberOfUsers = 500;
+  let numberOfUsers = 25;
   let getUserInfo = await fetchAPI(
     `https://randomuser.me/api/?results=${numberOfUsers}`
   );
 
   for (let i = 0; i < numberOfUsers; i++) {
+    console.log(`${i + 1}/${numberOfUsers} users created`);
     let seller = rndBool();
     let inventory = await rndInventory();
     let codes = await rndPromoCodes();

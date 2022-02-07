@@ -1,0 +1,2163 @@
+[
+  {
+    "name": { "firstName": "Marèll", "lastName": "Duijkers" },
+    "gender": "female",
+    "address": {
+      "street": { "number": 4666, "name": "Eyso de Wendtstraat" },
+      "city": "Nieuwlande Coevorden",
+      "state": "Friesland",
+      "postalZip": 35561,
+      "cords": { "latitude": "38.5696", "longitude": "175.3871" }
+    },
+    "phone": "(319)-298-9637",
+    "email": "marell.duijkers@example.com",
+    "loginInfo": {
+      "username": "silvermeercat430",
+      "password": "bdb86f29ee39b700e4a48e9610fcff4ad96fd61ff8d0aece6bb59bf1ee321569"
+    },
+    "birthdayInfo": { "dob": "1962-05-12T06:15:53.263Z", "age": 60 },
+    "balance": 858.16,
+    "inventory": [
+      {
+        "uid": "d6a816e5-b540-41ab-8361-0a6f6a1ad724",
+        "brand": "Blue Star",
+        "item": "Television",
+        "price": 119.86
+      },
+      {
+        "uid": "54738864-82e1-4d51-ae21-03f7a5037bed",
+        "brand": "Admiral",
+        "item": "Box mangle",
+        "price": 1.63
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": [
+      "SweetDeal547574",
+      "CoolSavings339648",
+      "PremiumCode769857",
+      "IncredibleDeal895203",
+      "GreatDeal356298",
+      "StellarSavings746757",
+      "GreatPrice594273",
+      "PremiumDeal767642",
+      "AmazingSale311476",
+      "SweetPromotion825264",
+      "AwesomePromotion745649",
+      "SweetPromotion553902"
+    ]
+  },
+  {
+    "name": { "firstName": "Chris", "lastName": "Buschmann" },
+    "gender": "male",
+    "address": {
+      "street": { "number": 3193, "name": "Friedhofstraße" },
+      "city": "Heimsheim",
+      "state": "Baden-Württemberg",
+      "postalZip": 43956,
+      "cords": { "latitude": "24.0051", "longitude": "-58.1819" }
+    },
+    "phone": "0386-2483438",
+    "email": "chris.buschmann@example.com",
+    "loginInfo": {
+      "username": "ticklishpanda629",
+      "password": "477bee45b692ed3f60732fa652a96887a9bd7cf5869fe9fdbd3c570a4b4f6474"
+    },
+    "birthdayInfo": { "dob": "1966-07-04T15:57:01.209Z", "age": 56 },
+    "balance": 2.56,
+    "inventory": [
+      {
+        "uid": "2e9281a6-ebfe-4e23-9636-5285e09d3d70",
+        "brand": "Whirlpool",
+        "item": "Attic fan",
+        "price": 43.5
+      },
+      {
+        "uid": "67a9b96c-7bbb-489b-911b-1b4d5e8c8f1d",
+        "brand": "IKEA",
+        "item": "Mangle (machine)",
+        "price": 54.39
+      },
+      {
+        "uid": "a6c78023-7f4d-4eee-931b-0fc44b2f9ecd",
+        "brand": "LG",
+        "item": "HVAC",
+        "price": 121.11
+      },
+      {
+        "uid": "2cc2b9d9-b4ab-4413-9e6e-2b0b279d8629",
+        "brand": "Bosch",
+        "item": "Go-to-bed matchbox",
+        "price": 82.56
+      },
+      {
+        "uid": "76dcaf7a-22da-4f4b-a28c-6cf565bb0f14",
+        "brand": "Electrolux",
+        "item": "Television",
+        "price": 3.78
+      },
+      {
+        "uid": "71b8dce1-dc21-4518-8f80-553fc73d9229",
+        "brand": "Franke",
+        "item": "Electric water boiler",
+        "price": 42.42
+      },
+      {
+        "uid": "1cd725d7-cb29-4912-86a4-72771b9a82b1",
+        "brand": "Sharp",
+        "item": "Box mangle",
+        "price": 117.16
+      },
+      {
+        "uid": "02e905f8-a0e3-439a-adae-5e4959dd68d9",
+        "brand": "Fagor",
+        "item": "Aroma lamp",
+        "price": 113.06
+      },
+      {
+        "uid": "69d2b4ee-85ce-41d2-8e33-fe18c7a91879",
+        "brand": "Siemens",
+        "item": "Mangle (machine)",
+        "price": 20.18
+      },
+      {
+        "uid": "06ec57e3-8817-4b57-8846-784845d5ef7d",
+        "brand": "Admiral",
+        "item": "Refrigerator",
+        "price": 88.28
+      },
+      {
+        "uid": "69834402-82bf-4f45-b03c-9a1c52459832",
+        "brand": "IKEA",
+        "item": "Oil heater",
+        "price": 121.14
+      },
+      {
+        "uid": "cd26336a-cd1b-4859-8805-9c26ef3d785a",
+        "brand": "Whirlpool",
+        "item": "Humidifier",
+        "price": 102.14
+      },
+      {
+        "uid": "2f817b6a-2570-4d97-8454-350476f79cf7",
+        "brand": "Siemens",
+        "item": "Fan heater",
+        "price": 106.28
+      },
+      {
+        "uid": "6f1950f2-788a-4f60-9d09-125bba5ff3da",
+        "brand": "Sharp",
+        "item": "Clothes iron",
+        "price": 51.55
+      },
+      {
+        "uid": "6aea6774-df73-4162-b9b8-40f3a422e589",
+        "brand": "LG",
+        "item": "Evaporative cooler",
+        "price": 24.67
+      },
+      {
+        "uid": "756106d1-7aaa-4629-9d30-b09b31d14181",
+        "brand": "LG",
+        "item": "Evaporative cooler",
+        "price": 9.48
+      },
+      {
+        "uid": "b07cf567-ba47-49ce-98c0-1c45c51f18bc",
+        "brand": "Amana",
+        "item": "Micathermic heater",
+        "price": 111.99
+      },
+      {
+        "uid": "fe8c4702-67c7-47a8-8479-69535efaa88e",
+        "brand": "Samsung",
+        "item": "Clothes iron",
+        "price": 89.65
+      },
+      {
+        "uid": "6c7e0553-eeeb-49d0-8466-b9c07b84f85b",
+        "brand": "Bosch",
+        "item": "Mangle (machine)",
+        "price": 34.74
+      },
+      {
+        "uid": "b2fba321-ccf4-49c3-87e5-381b53a21243",
+        "brand": "Blue Star",
+        "item": "Flame supervision device",
+        "price": 97.87
+      },
+      {
+        "uid": "157595cc-6976-480c-92d4-9c3758950e77",
+        "brand": "KitchenAid",
+        "item": "Aroma lamp",
+        "price": 26.12
+      },
+      {
+        "uid": "fe9d5c2e-32dd-4bb1-9168-dfefae5bc0ff",
+        "brand": "IKEA",
+        "item": "Domestic robot",
+        "price": 123.44
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": [
+      "AmazingDiscount630916",
+      "StellarPromo872794",
+      "AmazingSale791544",
+      "StellarPromotion983345",
+      "KillerPromotion310105",
+      "AmazingDeal673279",
+      "StellarSale209745"
+    ]
+  },
+  {
+    "name": { "firstName": "Aino", "lastName": "Kauppila" },
+    "gender": "female",
+    "address": {
+      "street": { "number": 3286, "name": "Pirkankatu" },
+      "city": "Hyvinkää",
+      "state": "Northern Savonia",
+      "postalZip": 46307,
+      "cords": { "latitude": "-81.7521", "longitude": "-84.1884" }
+    },
+    "phone": "07-218-992",
+    "email": "aino.kauppila@example.com",
+    "loginInfo": {
+      "username": "bluecat581",
+      "password": "820db1953ce8cbc2e664a546cccc63b49066ef8786f6428e5fac2b285f1e6411"
+    },
+    "birthdayInfo": { "dob": "1969-10-21T05:55:07.402Z", "age": 53 },
+    "balance": 232.34,
+    "inventory": null,
+    "isSeller": false,
+    "promoCodes": [
+      "AmazingPromotion691030",
+      "SpecialSale810456",
+      "CoolPrice748104",
+      "IncredibleSavings430542"
+    ]
+  },
+  {
+    "name": { "firstName": "Olivia", "lastName": "Patel" },
+    "gender": "female",
+    "address": {
+      "street": { "number": 1895, "name": "Church Street" },
+      "city": "Greymouth",
+      "state": "West Coast",
+      "postalZip": 74967,
+      "cords": { "latitude": "-82.9461", "longitude": "-77.3355" }
+    },
+    "phone": "(705)-663-5848",
+    "email": "olivia.patel@example.com",
+    "loginInfo": {
+      "username": "blackfrog556",
+      "password": "890c47536f61d135550a02a7159bb8e79d6bbef28e8c3584abc72a5b05a289b9"
+    },
+    "birthdayInfo": { "dob": "1963-02-14T22:30:52.109Z", "age": 59 },
+    "balance": 899.19,
+    "inventory": null,
+    "isSeller": false,
+    "promoCodes": [
+      "AmazingPrice989506",
+      "GreatPromo156417",
+      "SpecialCode395724",
+      "AwesomePromo563070"
+    ]
+  },
+  {
+    "name": { "firstName": "Vilho", "lastName": "Pulkkinen" },
+    "gender": "male",
+    "address": {
+      "street": { "number": 5464, "name": "Hatanpään Valtatie" },
+      "city": "Iisalmi",
+      "state": "Kainuu",
+      "postalZip": 16694,
+      "cords": { "latitude": "60.9319", "longitude": "-76.7779" }
+    },
+    "phone": "03-011-942",
+    "email": "vilho.pulkkinen@example.com",
+    "loginInfo": {
+      "username": "lazypeacock195",
+      "password": "c8899a7e9d6dc5cb256db0d641dcf4b097ea5389436731a28b411573731cf6e5"
+    },
+    "birthdayInfo": { "dob": "1996-11-17T18:01:58.203Z", "age": 26 },
+    "balance": 28.64,
+    "inventory": [
+      {
+        "uid": "40e2d93a-48d3-46ee-836c-e6a405f8af20",
+        "brand": "Admiral",
+        "item": "Refrigerator",
+        "price": 84.71
+      },
+      {
+        "uid": "d20d8604-ffae-4d1e-bea6-c1f21c3c095e",
+        "brand": "Franke",
+        "item": "Hair dryer",
+        "price": 51.74
+      },
+      {
+        "uid": "0d271915-b75d-49ec-953e-767cc9e16952",
+        "brand": "Sharp",
+        "item": "Micathermic heater",
+        "price": 67.3
+      },
+      {
+        "uid": "8f5665a9-00c7-420a-be06-ad13d14e75b7",
+        "brand": "LG",
+        "item": "Bachelor griller",
+        "price": 0.66
+      },
+      {
+        "uid": "d8d29c42-3508-4df3-a972-d22f73917b93",
+        "brand": "Electrolux",
+        "item": "Can opener",
+        "price": 2.6
+      },
+      {
+        "uid": "391ff2c4-36bd-4b87-8c33-791cd88779cd",
+        "brand": "Fagor",
+        "item": "Water purifier",
+        "price": 62.12
+      },
+      {
+        "uid": "bd7f181c-3c50-4970-933b-b87807354834",
+        "brand": "Sharp",
+        "item": "Micathermic heater",
+        "price": 35.67
+      },
+      {
+        "uid": "ef66fd44-34a4-4d55-a117-6ed4244dac06",
+        "brand": "Electrolux",
+        "item": "Bachelor griller",
+        "price": 36.57
+      },
+      {
+        "uid": "fe5ef755-3fc4-4a3a-8356-b9680f01a5ab",
+        "brand": "Whirlpool",
+        "item": "Paper shredder",
+        "price": 69.04
+      },
+      {
+        "uid": "db2801d2-d6c8-413e-a1f3-74ef11da2ddf",
+        "brand": "Blue Star",
+        "item": "Box mangle",
+        "price": 37.69
+      },
+      {
+        "uid": "2357ab91-aee8-48df-8329-87552bf125b7",
+        "brand": "Fagor",
+        "item": "Stove",
+        "price": 86.02
+      },
+      {
+        "uid": "8e06a7d7-ce94-40d6-88c8-da81481a4de9",
+        "brand": "Sharp",
+        "item": "Forced-air",
+        "price": 79.07
+      },
+      {
+        "uid": "83d627b8-0f0a-4a3c-8589-3e3b5abc879f",
+        "brand": "Electrolux",
+        "item": "Fan heater",
+        "price": 24.51
+      },
+      {
+        "uid": "a9dc310d-48ad-4ec1-9a5b-829e127bd9e7",
+        "brand": "Samsung",
+        "item": "Television",
+        "price": 17.2
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": ["IncrediblePrice150869"]
+  },
+  {
+    "name": { "firstName": "Theodor", "lastName": "Renaud" },
+    "gender": "male",
+    "address": {
+      "street": { "number": 4391, "name": "Place de L'Abbé-Franz-Stock" },
+      "city": "Nufenen",
+      "state": "Solothurn",
+      "postalZip": 2758,
+      "cords": { "latitude": "-53.1071", "longitude": "13.3969" }
+    },
+    "phone": "079 565 36 73",
+    "email": "theodor.renaud@example.com",
+    "loginInfo": {
+      "username": "beautifulpanda755",
+      "password": "e15e383e856d0b941af90b67ecdd5e6790bb861bac8b0064a37947224aa6b3e3"
+    },
+    "birthdayInfo": { "dob": "1963-09-30T14:55:06.233Z", "age": 59 },
+    "balance": 460.07,
+    "inventory": [
+      {
+        "uid": "b024ba8e-1e52-43b8-a912-d0883e5b04ec",
+        "brand": "KitchenAid",
+        "item": "Oven",
+        "price": 71.21
+      },
+      {
+        "uid": "5ad46a5a-985a-4d88-add9-1c7e44e78e05",
+        "brand": "KitchenAid",
+        "item": "Dishwasher",
+        "price": 120.6
+      },
+      {
+        "uid": "be5fa687-5ebb-485c-8890-ee7617bb07a8",
+        "brand": "IKEA",
+        "item": "Television",
+        "price": 85.22
+      },
+      {
+        "uid": "5f3ca632-6220-430c-8f3f-2bf6aceda94e",
+        "brand": "Bosch",
+        "item": "Trouser press",
+        "price": 26.21
+      },
+      {
+        "uid": "4c188919-2a6a-4622-86b1-0fe6619c5d54",
+        "brand": "Blue Star",
+        "item": "Toaster and toaster ovens",
+        "price": 48.18
+      },
+      {
+        "uid": "423ec7c7-f2eb-49d5-9d15-48c09820fa9d",
+        "brand": "Whirlpool",
+        "item": "Washing machine",
+        "price": 49.35
+      },
+      {
+        "uid": "98146415-3e50-47fb-8578-1852216c32f2",
+        "brand": "Whirlpool",
+        "item": "Clothes iron",
+        "price": 41.55
+      },
+      {
+        "uid": "ec9b22ac-5133-4ed5-af50-f18c8129b827",
+        "brand": "Sharp",
+        "item": "Solar water heater",
+        "price": 102.63
+      },
+      {
+        "uid": "13afa825-4b07-4be8-bfb6-f90d46e74cd0",
+        "brand": "Bosch",
+        "item": "Blender",
+        "price": 93.13
+      },
+      {
+        "uid": "228b28b2-6567-4df3-8b0b-aa531753915d",
+        "brand": "Samsung",
+        "item": "Fan heater",
+        "price": 84.54
+      },
+      {
+        "uid": "7e6a05a2-fe77-4041-87ac-83e302529f0b",
+        "brand": "Fagor",
+        "item": "Box mangle",
+        "price": 17.51
+      },
+      {
+        "uid": "8286a08e-843d-4aba-86d2-e369544c699f",
+        "brand": "Electrolux",
+        "item": "Forced-air",
+        "price": 60.79
+      },
+      {
+        "uid": "bf296eda-d0b1-4e7a-9a2a-6c0692174891",
+        "brand": "Siemens",
+        "item": "Back boiler",
+        "price": 47.68
+      },
+      {
+        "uid": "aa99e092-44e8-475a-8246-5d572f22486f",
+        "brand": "IKEA",
+        "item": "Drawer dishwasher",
+        "price": 31.15
+      },
+      {
+        "uid": "7183f755-c80d-4b10-a6bf-1fca72205413",
+        "brand": "Blue Star",
+        "item": "Washing machine",
+        "price": 76.11
+      },
+      {
+        "uid": "2cf06d70-68ff-4376-9888-b55eb15aa5ef",
+        "brand": "KitchenAid",
+        "item": "Exhaust hood",
+        "price": 6.61
+      },
+      {
+        "uid": "bf82dc5b-60e2-41f0-ad6b-9d397972963e",
+        "brand": "IKEA",
+        "item": "Box mangle",
+        "price": 17.83
+      },
+      {
+        "uid": "0eff4265-a2ac-4e02-8b95-83365153a0e7",
+        "brand": "KitchenAid",
+        "item": "Air ioniser",
+        "price": 55.45
+      },
+      {
+        "uid": "e9359a88-d462-4108-8458-f2cc3ecca57b",
+        "brand": "Fagor",
+        "item": "Vacuum cleaner",
+        "price": 42.38
+      },
+      {
+        "uid": "93b910d5-6c1a-438f-baee-4d14e69bfd6f",
+        "brand": "Fagor",
+        "item": "Hair dryer",
+        "price": 112.61
+      },
+      {
+        "uid": "24122d74-5ff0-4499-a872-6b0a1cfbb438",
+        "brand": "Siemens",
+        "item": "Humidifier",
+        "price": 95.09
+      },
+      {
+        "uid": "8a5aeae7-cc61-47e9-be49-127fde293a91",
+        "brand": "Admiral",
+        "item": "Bachelor griller",
+        "price": 41.44
+      },
+      {
+        "uid": "7f9a8deb-c39c-4462-9a8d-00458fd4c5c4",
+        "brand": "LG",
+        "item": "Ceiling fan",
+        "price": 28.48
+      },
+      {
+        "uid": "a28b24c3-ef20-4f12-9e78-8689c22bf099",
+        "brand": "Whirlpool",
+        "item": "Domestic robot",
+        "price": 91.48
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": [
+      "SweetDeal519249",
+      "SweetDeal292935",
+      "SweetDeal957290",
+      "KillerCode616004",
+      "GoodDiscount177201"
+    ]
+  },
+  {
+    "name": { "firstName": "Claudemiro", "lastName": "Lima" },
+    "gender": "male",
+    "address": {
+      "street": { "number": 703, "name": "Rua Dom Pedro Ii " },
+      "city": "Timon",
+      "state": "Santa Catarina",
+      "postalZip": 12836,
+      "cords": { "latitude": "82.0163", "longitude": "104.8059" }
+    },
+    "phone": "(20) 6238-9246",
+    "email": "claudemiro.lima@example.com",
+    "loginInfo": {
+      "username": "silverladybug484",
+      "password": "d726b65b36d61b6ae17084e6cc1fb70afd88671d6fe660c3213f4b577cbf710d"
+    },
+    "birthdayInfo": { "dob": "1963-05-26T19:54:59.516Z", "age": 59 },
+    "balance": 531.73,
+    "inventory": [
+      {
+        "uid": "58ee9904-79d5-403e-b66b-4a0c1bd3d7c0",
+        "brand": "Franke",
+        "item": "Paper shredder",
+        "price": 115.88
+      },
+      {
+        "uid": "12813741-9c5e-4eeb-afce-03be717e3286",
+        "brand": "LG",
+        "item": "Dishwasher",
+        "price": 4.34
+      },
+      {
+        "uid": "5b7ee0ac-1a1e-47f0-bb33-6a6b0cc6fb8d",
+        "brand": "Samsung",
+        "item": "Radiator (heating)",
+        "price": 116.39
+      },
+      {
+        "uid": "e1fe2b6b-31ba-43d2-a812-1bc4fbc53043",
+        "brand": "KitchenAid",
+        "item": "Trouser press",
+        "price": 40.04
+      },
+      {
+        "uid": "3d128874-cd7b-469c-838c-b6a5840d4acd",
+        "brand": "Whirlpool",
+        "item": "Central vacuum cleaner",
+        "price": 27.06
+      },
+      {
+        "uid": "5160312b-a375-4f14-89c7-1f7d7e6f8bdc",
+        "brand": "Admiral",
+        "item": "Domestic robot",
+        "price": 33.95
+      },
+      {
+        "uid": "9cf16fbe-730e-4520-a426-c5ef7e47f3e5",
+        "brand": "Electrolux",
+        "item": "Water cooker",
+        "price": 37.16
+      },
+      {
+        "uid": "e1c3fc2f-9cf1-42a8-9461-67c8554adb1f",
+        "brand": "LG",
+        "item": "Micathermic heater",
+        "price": 48.88
+      },
+      {
+        "uid": "7acea171-ae1b-4bab-9423-22838179a1d5",
+        "brand": "Bosch",
+        "item": "Aroma lamp",
+        "price": 83.14
+      },
+      {
+        "uid": "3dee5893-e3c6-4ccf-b47f-962178282a67",
+        "brand": "Whirlpool",
+        "item": "Back boiler",
+        "price": 15.89
+      },
+      {
+        "uid": "0a4224b3-ccfe-4584-99f5-2495ce760519",
+        "brand": "Bosch",
+        "item": "Combo washer dryer",
+        "price": 9.44
+      },
+      {
+        "uid": "04e7f23f-4f64-47ea-afe7-2dd0d09d6031",
+        "brand": "Siemens",
+        "item": "Dish draining closet",
+        "price": 31.63
+      },
+      {
+        "uid": "ee019289-1339-42b3-b352-bba0d65cefdc",
+        "brand": "LG",
+        "item": "Hob (hearth)",
+        "price": 121.56
+      },
+      {
+        "uid": "888ebf22-4842-4ef0-bb2e-eff95324108f",
+        "brand": "IKEA",
+        "item": "Steam mop",
+        "price": 81.7
+      },
+      {
+        "uid": "6e0c916b-bf92-4385-bfd0-f0a6371782c7",
+        "brand": "Amana",
+        "item": "Dish draining closet",
+        "price": 71.16
+      },
+      {
+        "uid": "509a0c24-5341-4770-8155-7d5e82eb9437",
+        "brand": "Bosch",
+        "item": "Attic fan",
+        "price": 63.24
+      },
+      {
+        "uid": "0a587723-6d7c-42d8-bb29-a1ed75b176a6",
+        "brand": "IKEA",
+        "item": "Oil heater",
+        "price": 78.73
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": ["GoodDeal995456", "GoodPromo930166"]
+  },
+  {
+    "name": { "firstName": "Niels", "lastName": "Roux" },
+    "gender": "male",
+    "address": {
+      "street": { "number": 3522, "name": "Cours Charlemagne" },
+      "city": "Schwanden bei Brienz",
+      "state": "St. Gallen",
+      "postalZip": 3076,
+      "cords": { "latitude": "-27.6194", "longitude": "149.4329" }
+    },
+    "phone": "077 820 57 23",
+    "email": "niels.roux@example.com",
+    "loginInfo": {
+      "username": "crazypanda695",
+      "password": "c0a206afe28d1b4e84092a118fbce5d70c15567452327680a7ae7dbd595664a4"
+    },
+    "birthdayInfo": { "dob": "1953-04-18T15:19:13.323Z", "age": 69 },
+    "balance": 421.7,
+    "inventory": null,
+    "isSeller": false,
+    "promoCodes": [
+      "StellarDiscount109631",
+      "GreatPrice836563",
+      "AmazingPrice125255",
+      "PremiumDiscount471612",
+      "AmazingPromo706287",
+      "AwesomeSale232497",
+      "StellarPrice429194",
+      "SpecialCode711700",
+      "SweetDeal171537",
+      "PremiumDeal367463",
+      "SpecialDiscount840916"
+    ]
+  },
+  {
+    "name": { "firstName": "Truls", "lastName": "Østlie" },
+    "gender": "male",
+    "address": {
+      "street": { "number": 976, "name": "Kryssveien" },
+      "city": "Hellerud",
+      "state": "Møre og Romsdal",
+      "postalZip": "5221",
+      "cords": { "latitude": "26.1676", "longitude": "120.6398" }
+    },
+    "phone": "52492617",
+    "email": "truls.ostlie@example.com",
+    "loginInfo": {
+      "username": "silverdog849",
+      "password": "eebb5e0693d688b3cca45c07f8e79bb62f45d28f1111dca67a0ea0190e9aa7f7"
+    },
+    "birthdayInfo": { "dob": "1946-12-29T13:03:46.685Z", "age": 76 },
+    "balance": 26.85,
+    "inventory": [
+      {
+        "uid": "70e845e2-3cf1-4c60-95d8-54b38b853c55",
+        "brand": "Amana",
+        "item": "Solar water heater",
+        "price": 116.22
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": [
+      "PremiumPromotion483618",
+      "SweetPromotion634397",
+      "KillerPrice741233",
+      "StellarPromotion376710",
+      "SweetSavings356860",
+      "AwesomeDiscount852013",
+      "AmazingPrice257096",
+      "AmazingPrice736679",
+      "KillerPromo947172"
+    ]
+  },
+  {
+    "name": { "firstName": "Çetin", "lastName": "Mayhoş" },
+    "gender": "male",
+    "address": {
+      "street": { "number": 7673, "name": "Bağdat Cd" },
+      "city": "Elazığ",
+      "state": "Tunceli",
+      "postalZip": 30098,
+      "cords": { "latitude": "-23.5566", "longitude": "-173.5200" }
+    },
+    "phone": "(053)-243-7534",
+    "email": "cetin.mayhos@example.com",
+    "loginInfo": {
+      "username": "orangeswan995",
+      "password": "8764f1dcbaef61b75c5f47347a66d36b12ce5917f3321409cf7bf102b405c627"
+    },
+    "birthdayInfo": { "dob": "1972-01-11T01:48:14.263Z", "age": 50 },
+    "balance": 102.54,
+    "inventory": [
+      {
+        "uid": "3ac057ff-3286-4675-952f-4bf836d7c585",
+        "brand": "Sharp",
+        "item": "Home server",
+        "price": 81.28
+      },
+      {
+        "uid": "0f811ae7-97f7-4701-9107-1d21eaf84622",
+        "brand": "Blue Star",
+        "item": "Hair iron",
+        "price": 1.13
+      },
+      {
+        "uid": "c869129b-af93-4356-9149-226e2f5095dd",
+        "brand": "Amana",
+        "item": "Kimchi refrigerator",
+        "price": 73.18
+      },
+      {
+        "uid": "a9eacbcd-95d4-4d33-90bb-d18e3ac72a77",
+        "brand": "LG",
+        "item": "Solar water heater",
+        "price": 51.53
+      },
+      {
+        "uid": "913c18b5-a254-43ee-aefd-da8e0eceaac9",
+        "brand": "Bosch",
+        "item": "Aroma lamp",
+        "price": 51.74
+      },
+      {
+        "uid": "deb4b436-9726-445d-8d20-5efbcc8df6d0",
+        "brand": "Blue Star",
+        "item": "Hair iron",
+        "price": 30.49
+      },
+      {
+        "uid": "89f4c7ca-8357-46d1-9d5c-acc36ab7a82a",
+        "brand": "Franke",
+        "item": "Radiator (heating)",
+        "price": 33.62
+      },
+      {
+        "uid": "0813dc35-ef32-4fa9-ab62-2ae73c4222d6",
+        "brand": "IKEA",
+        "item": "Clothes dryer",
+        "price": 62.01
+      },
+      {
+        "uid": "6b7abd58-9a63-4df7-8d77-2bf59b20a54e",
+        "brand": "Whirlpool",
+        "item": "Aroma lamp",
+        "price": 88.09
+      },
+      {
+        "uid": "574e0bca-f2c9-4e85-897c-0f9ad29fbf8b",
+        "brand": "Samsung",
+        "item": "Space heater",
+        "price": 53.98
+      },
+      {
+        "uid": "9b3a11b3-3fe0-4354-b06e-08b562e3dca1",
+        "brand": "KitchenAid",
+        "item": "Microwave oven",
+        "price": 36.67
+      },
+      {
+        "uid": "4eb0c8c8-c4f9-47c2-9685-e2cadf50257e",
+        "brand": "Samsung",
+        "item": "Oven",
+        "price": 28.22
+      },
+      {
+        "uid": "eb235604-c36a-4366-a022-82b93d708611",
+        "brand": "Franke",
+        "item": "Toaster and toaster ovens",
+        "price": 112.37
+      },
+      {
+        "uid": "7e99218c-5671-4eb6-959c-bc99109a3060",
+        "brand": "Amana",
+        "item": "Hair iron",
+        "price": 109.8
+      },
+      {
+        "uid": "d56b3d18-0c98-4f87-b256-5cda4930e741",
+        "brand": "Electrolux",
+        "item": "Air purifier",
+        "price": 98.35
+      },
+      {
+        "uid": "12334f64-0833-4ab5-aba4-28c635aa5f9c",
+        "brand": "Whirlpool",
+        "item": "Exhaust hood",
+        "price": 73.48
+      },
+      {
+        "uid": "286e9af4-d70d-4b8e-8d7a-8fb58dee2341",
+        "brand": "Samsung",
+        "item": "Evaporative cooler",
+        "price": 115.82
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": [
+      "StellarDeal897531",
+      "PremiumDiscount571905",
+      "GreatDeal407602",
+      "GreatDiscount571996",
+      "CoolPrice506079",
+      "PremiumPrice301343"
+    ]
+  },
+  {
+    "name": { "firstName": "Frank-Peter", "lastName": "Knoll" },
+    "gender": "male",
+    "address": {
+      "street": { "number": 9553, "name": "Königsberger Straße" },
+      "city": "Böblingen",
+      "state": "Nordrhein-Westfalen",
+      "postalZip": 16839,
+      "cords": { "latitude": "78.2338", "longitude": "-29.1624" }
+    },
+    "phone": "0145-0252268",
+    "email": "frank-peter.knoll@example.com",
+    "loginInfo": {
+      "username": "ticklishdog327",
+      "password": "ed545caa39feba96ba126865251d1d1e79a18a1a8ad38f85a5aa7dac93b57efe"
+    },
+    "birthdayInfo": { "dob": "1975-03-08T13:26:14.241Z", "age": 47 },
+    "balance": 871.52,
+    "inventory": [
+      {
+        "uid": "a63a88a0-e957-4d52-8a50-eb12dda290cd",
+        "brand": "Whirlpool",
+        "item": "Refrigerator",
+        "price": 82.42
+      },
+      {
+        "uid": "8f9af3b8-dcbd-403d-90bc-4432f69ae057",
+        "brand": "LG",
+        "item": "Microwave oven",
+        "price": 84.39
+      },
+      {
+        "uid": "2a42a145-eb7d-43be-acb2-c3c956b62b6c",
+        "brand": "Amana",
+        "item": "Mousetrap",
+        "price": 24.63
+      },
+      {
+        "uid": "c622454f-f107-43e9-9047-7148adbbecb0",
+        "brand": "Electrolux",
+        "item": "Forced-air",
+        "price": 18.43
+      },
+      {
+        "uid": "69447ceb-4786-438f-836f-8e330b4d46a9",
+        "brand": "IKEA",
+        "item": "Water cooker",
+        "price": 54.47
+      },
+      {
+        "uid": "411d4d0d-bb9c-4f7d-952c-00daaa54cf14",
+        "brand": "Siemens",
+        "item": "Back boiler",
+        "price": 33.3
+      },
+      {
+        "uid": "73dde367-8eb4-44ee-b942-7de976ef63c9",
+        "brand": "Electrolux",
+        "item": "Tie press",
+        "price": 98.4
+      },
+      {
+        "uid": "79f06097-012e-4d3a-b091-16226d36735a",
+        "brand": "Admiral",
+        "item": "Hair iron",
+        "price": 14.49
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": [
+      "AwesomePromotion907922",
+      "IncredibleCode650101",
+      "AmazingPromo378523",
+      "AmazingSavings902281",
+      "KillerDiscount250267",
+      "AmazingDiscount968200",
+      "PremiumPrice702140",
+      "AwesomePrice709432",
+      "SpecialDeal645865",
+      "SpecialPrice969828"
+    ]
+  },
+  {
+    "name": { "firstName": "Augusto", "lastName": "Moura" },
+    "gender": "male",
+    "address": {
+      "street": { "number": 8382, "name": "Rua Maranhão " },
+      "city": "Atibaia",
+      "state": "Paraíba",
+      "postalZip": 39726,
+      "cords": { "latitude": "22.2028", "longitude": "-139.6655" }
+    },
+    "phone": "(31) 7126-7842",
+    "email": "augusto.moura@example.com",
+    "loginInfo": {
+      "username": "tinyladybug148",
+      "password": "3b87bf1c8b3ef53fc33b7f3eaa67e2a1d4d6c2bc775af4adc3d0a79102feb850"
+    },
+    "birthdayInfo": { "dob": "1976-04-04T01:11:42.342Z", "age": 46 },
+    "balance": 671.63,
+    "inventory": null,
+    "isSeller": false,
+    "promoCodes": [
+      "GreatPromo877022",
+      "GoodSavings946495",
+      "KillerPromotion153501",
+      "AmazingSale285495",
+      "KillerPromotion721465",
+      "SpecialPromotion574134",
+      "PremiumDeal694193",
+      "SpecialDiscount587334",
+      "CoolDeal295553",
+      "GreatDeal799960",
+      "SweetCode561811",
+      "GoodCode182306"
+    ]
+  },
+  {
+    "name": { "firstName": "Ece", "lastName": "Abacı" },
+    "gender": "female",
+    "address": {
+      "street": { "number": 1402, "name": "Anafartalar Cd" },
+      "city": "Osmaniye",
+      "state": "Muş",
+      "postalZip": 90535,
+      "cords": { "latitude": "61.4815", "longitude": "-102.9058" }
+    },
+    "phone": "(097)-988-3023",
+    "email": "ece.abaci@example.com",
+    "loginInfo": {
+      "username": "silversnake944",
+      "password": "0935b160e5fa47e3c52656bb8c21f5d7d66994517ddcdff4d854e68d9efcc509"
+    },
+    "birthdayInfo": { "dob": "1961-04-26T22:07:07.150Z", "age": 61 },
+    "balance": 507.55,
+    "inventory": [
+      {
+        "uid": "00389fb2-46ba-49dc-95ba-3929bc553631",
+        "brand": "IKEA",
+        "item": "Oven",
+        "price": 88.96
+      },
+      {
+        "uid": "2acd871f-2975-4e50-a62d-571d2aa5f95d",
+        "brand": "KitchenAid",
+        "item": "Box mangle",
+        "price": 52.24
+      },
+      {
+        "uid": "0fdeaa0e-f024-4306-9338-401006103dff",
+        "brand": "Samsung",
+        "item": "Go-to-bed matchbox",
+        "price": 66.56
+      },
+      {
+        "uid": "6f5ef76c-6aca-4f2b-8bd0-352d3168c427",
+        "brand": "Samsung",
+        "item": "Patio heater",
+        "price": 0.05
+      },
+      {
+        "uid": "e59579de-1649-4e96-8339-2e150190ceb7",
+        "brand": "Franke",
+        "item": "Television",
+        "price": 102
+      },
+      {
+        "uid": "04349dbc-7f6e-4d26-9a60-86a63e38c0f9",
+        "brand": "LG",
+        "item": "Aroma lamp",
+        "price": 119.75
+      },
+      {
+        "uid": "a463f120-e678-4b9f-b3dc-ecd841342756",
+        "brand": "IKEA",
+        "item": "Sump pump",
+        "price": 46.45
+      },
+      {
+        "uid": "0480de86-6c55-4eb3-bb0e-4bb0bcbf4113",
+        "brand": "Siemens",
+        "item": "Washing machine",
+        "price": 38.23
+      },
+      {
+        "uid": "0b65b1cc-b845-4731-8ba4-630dca0d9867",
+        "brand": "Amana",
+        "item": "Go-to-bed matchbox",
+        "price": 8.49
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": [
+      "GoodPromo839242",
+      "KillerSavings799979",
+      "GreatCode310684",
+      "GoodSale178639",
+      "GreatDiscount883257",
+      "GreatDeal706963",
+      "AmazingPromo305461",
+      "PremiumPrice506554",
+      "KillerPrice207975",
+      "SweetCode415308"
+    ]
+  },
+  {
+    "name": { "firstName": "Lilly", "lastName": "Johannessen" },
+    "gender": "female",
+    "address": {
+      "street": { "number": 935, "name": "Sportsstien" },
+      "city": "Bø",
+      "state": "Rogaland",
+      "postalZip": "5849",
+      "cords": { "latitude": "56.4522", "longitude": "-79.2424" }
+    },
+    "phone": "83256993",
+    "email": "lilly.johannessen@example.com",
+    "loginInfo": {
+      "username": "ticklishostrich557",
+      "password": "fc752ac2c9e8c97cf4b24735fe3461e8a6cc4ee4e18d2da74a0ccaa5ae12dacc"
+    },
+    "birthdayInfo": { "dob": "1972-08-23T10:56:15.959Z", "age": 50 },
+    "balance": 472.09,
+    "inventory": [
+      {
+        "uid": "091eb93c-e184-475d-b830-459451327442",
+        "brand": "Siemens",
+        "item": "Blender",
+        "price": 121.76
+      },
+      {
+        "uid": "44020844-a10d-4ed3-90d3-6a9c83a2c0e3",
+        "brand": "Admiral",
+        "item": "Water purifier",
+        "price": 52.31
+      },
+      {
+        "uid": "1158bc89-b494-4794-bf41-aa5ebd61b9ab",
+        "brand": "Electrolux",
+        "item": "Patio heater",
+        "price": 46.87
+      },
+      {
+        "uid": "320abba5-ef77-4b68-9c09-735de1bf1d83",
+        "brand": "Samsung",
+        "item": "Home server",
+        "price": 13.22
+      },
+      {
+        "uid": "bf11062b-c5bd-4663-8242-3df242eea0c3",
+        "brand": "Sharp",
+        "item": "Radiator (heating)",
+        "price": 51.33
+      },
+      {
+        "uid": "006d2e3f-20e3-45d6-91e8-57310d715a34",
+        "brand": "Fagor",
+        "item": "Patio heater",
+        "price": 83.03
+      },
+      {
+        "uid": "000284fb-264d-4a4f-b416-b846fd2ceef7",
+        "brand": "Amana",
+        "item": "Sewing machine",
+        "price": 60.64
+      },
+      {
+        "uid": "9eeac814-7cd5-48ed-a4c4-5fc6e34f29a3",
+        "brand": "Bosch",
+        "item": "Oil heater",
+        "price": 42.82
+      },
+      {
+        "uid": "6318853e-e9df-497e-a2a9-dbd1646597e3",
+        "brand": "Amana",
+        "item": "Evaporative cooler",
+        "price": 18.52
+      },
+      {
+        "uid": "f4d8526f-cf67-4a17-a0a1-c6f23ccee584",
+        "brand": "Amana",
+        "item": "Can opener",
+        "price": 106.57
+      },
+      {
+        "uid": "4445a12d-2cf1-44fc-9631-c4549ce612ec",
+        "brand": "LG",
+        "item": "Kimchi refrigerator",
+        "price": 61.64
+      },
+      {
+        "uid": "d8658fa3-a14b-4210-be7e-b6ca48b1d31a",
+        "brand": "IKEA",
+        "item": "Domestic robot",
+        "price": 40.36
+      },
+      {
+        "uid": "bd54b173-332b-4e7c-838d-c5ec8a3372fd",
+        "brand": "Amana",
+        "item": "Cold-pressed juicer",
+        "price": 117.45
+      },
+      {
+        "uid": "5e0b8182-dfd9-489a-b71e-fdd847c04296",
+        "brand": "Blue Star",
+        "item": "Oven",
+        "price": 55.46
+      },
+      {
+        "uid": "cf2ac784-9ad6-4112-a047-13ee1fb87dfb",
+        "brand": "IKEA",
+        "item": "Vacuum cleaner",
+        "price": 21.94
+      },
+      {
+        "uid": "eea94825-cfce-437d-80fd-817048750af2",
+        "brand": "Electrolux",
+        "item": "Aroma lamp",
+        "price": 7.7
+      },
+      {
+        "uid": "485d9e7e-c594-4398-9b4c-7e0d21c6085f",
+        "brand": "LG",
+        "item": "Aroma lamp",
+        "price": 60.41
+      },
+      {
+        "uid": "00a2ae23-8f87-4da1-ae37-db84a2ab7db8",
+        "brand": "Amana",
+        "item": "Combo washer dryer",
+        "price": 119.17
+      },
+      {
+        "uid": "750f23ad-b35f-40ac-9260-c746fef7737c",
+        "brand": "Amana",
+        "item": "Space heater",
+        "price": 116.33
+      },
+      {
+        "uid": "ccb0ab51-cade-4e45-a497-65bac676e66b",
+        "brand": "Bosch",
+        "item": "Cold-pressed juicer",
+        "price": 12.09
+      },
+      {
+        "uid": "71e4029e-87aa-4440-88d6-01b95a213e01",
+        "brand": "Electrolux",
+        "item": "Futon dryer",
+        "price": 89.67
+      },
+      {
+        "uid": "a5be5b06-31a6-4b41-b25d-581bad33ebf2",
+        "brand": "Fagor",
+        "item": "Can opener",
+        "price": 67.7
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": [
+      "CoolSale849966",
+      "GoodDeal480291",
+      "GoodSale243210",
+      "StellarPrice857056",
+      "AwesomeDiscount918554"
+    ]
+  },
+  {
+    "name": { "firstName": "Aparecida", "lastName": "Moreira" },
+    "gender": "female",
+    "address": {
+      "street": { "number": 2423, "name": "Rua Carlos Gomes" },
+      "city": "Blumenau",
+      "state": "Rio Grande do Norte",
+      "postalZip": 64162,
+      "cords": { "latitude": "-88.5529", "longitude": "-137.5218" }
+    },
+    "phone": "(35) 5467-4767",
+    "email": "aparecida.moreira@example.com",
+    "loginInfo": {
+      "username": "brownrabbit732",
+      "password": "39118d2e25e12873f1b97a7f0ac595baf0f3c1f75ba1e4fef8e87297db263ed7"
+    },
+    "birthdayInfo": { "dob": "1963-07-09T05:07:29.946Z", "age": 59 },
+    "balance": 615.8,
+    "inventory": [
+      {
+        "uid": "319766ed-baa9-4cf4-9983-f45c6d893682",
+        "brand": "Electrolux",
+        "item": "Beverage opener",
+        "price": 100.07
+      },
+      {
+        "uid": "1a503ab3-9b80-4363-a4ff-0c5abd82144a",
+        "brand": "Siemens",
+        "item": "Clothes dryer",
+        "price": 92.08
+      },
+      {
+        "uid": "febb5eeb-4744-4d22-9407-013e62fcb584",
+        "brand": "Blue Star",
+        "item": "Water cooker",
+        "price": 124.6
+      },
+      {
+        "uid": "88ca7402-fe60-4b02-b613-96b9e936b4a5",
+        "brand": "Siemens",
+        "item": "Radiator (heating)",
+        "price": 8.92
+      },
+      {
+        "uid": "8b1429b2-2b6d-4a3f-b677-32391a19a897",
+        "brand": "Siemens",
+        "item": "Dishwasher",
+        "price": 58.56
+      },
+      {
+        "uid": "0536ee4b-6435-4e7e-ae93-51c5590ad6a5",
+        "brand": "Samsung",
+        "item": "Water heater",
+        "price": 12.39
+      },
+      {
+        "uid": "08e17976-97ca-4067-8751-6b33a38275c4",
+        "brand": "Electrolux",
+        "item": "Garbage disposal unit",
+        "price": 15.4
+      },
+      {
+        "uid": "641f879e-378b-4c3a-8498-93c6e181f962",
+        "brand": "Franke",
+        "item": "Dish draining closet",
+        "price": 31.69
+      },
+      {
+        "uid": "cddbdfcb-8e4f-4ddb-a8c8-a761cd4a880e",
+        "brand": "Blue Star",
+        "item": "Micathermic heater",
+        "price": 6.45
+      },
+      {
+        "uid": "1b966cb0-3a65-4249-a053-ff238978492e",
+        "brand": "Samsung",
+        "item": "Appliance plug",
+        "price": 49.22
+      },
+      {
+        "uid": "71593cdd-6264-4399-a0e8-5865420398c0",
+        "brand": "Fagor",
+        "item": "Air purifier",
+        "price": 47.19
+      },
+      {
+        "uid": "6737b7aa-8781-41a9-a11a-690c07903187",
+        "brand": "Electrolux",
+        "item": "Micathermic heater",
+        "price": 123.45
+      },
+      {
+        "uid": "50f5b6df-efd0-4863-a41c-975e0298ca2a",
+        "brand": "Samsung",
+        "item": "Dish draining closet",
+        "price": 19.08
+      },
+      {
+        "uid": "19eccbff-1289-4665-ad04-4df3e4f76549",
+        "brand": "Sharp",
+        "item": "Vacuum cleaner",
+        "price": 14.81
+      },
+      {
+        "uid": "249996e9-403a-48a3-9f06-75416dd2d603",
+        "brand": "Fagor",
+        "item": "Attic fan",
+        "price": 72.2
+      },
+      {
+        "uid": "8a3a1a81-2931-4be5-acb6-5d6f10116bfe",
+        "brand": "Electrolux",
+        "item": "Air ioniser",
+        "price": 75.49
+      },
+      {
+        "uid": "a8eb304e-f22a-42b0-b465-0e568381eab5",
+        "brand": "Admiral",
+        "item": "Can opener",
+        "price": 50.22
+      },
+      {
+        "uid": "1f7c604e-c535-44a5-aa81-49393efc6a3c",
+        "brand": "Whirlpool",
+        "item": "Patio heater",
+        "price": 120.11
+      },
+      {
+        "uid": "9bb23d57-9c6c-4016-b7f5-e0f5b4451db2",
+        "brand": "Electrolux",
+        "item": "Stove",
+        "price": 95.63
+      },
+      {
+        "uid": "e8988ccf-5eac-44a8-b345-082e374e9749",
+        "brand": "Sharp",
+        "item": "Radiator (heating)",
+        "price": 94.06
+      },
+      {
+        "uid": "a1342e4e-5504-47e0-b857-f337bab1e508",
+        "brand": "Franke",
+        "item": "Television",
+        "price": 92.62
+      },
+      {
+        "uid": "b347448a-7537-4dcd-8446-a19a27007c7a",
+        "brand": "Electrolux",
+        "item": "Attic fan",
+        "price": 58.42
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": [
+      "IncrediblePromotion573100",
+      "GreatCode223887",
+      "SpecialPromotion435281",
+      "GreatPrice134090"
+    ]
+  },
+  {
+    "name": { "firstName": "Jauke", "lastName": "Heerema" },
+    "gender": "male",
+    "address": {
+      "street": { "number": 2078, "name": "Hamletschouw" },
+      "city": "Lytsewierrum",
+      "state": "Noord-Brabant",
+      "postalZip": 92088,
+      "cords": { "latitude": "15.1629", "longitude": "-153.0584" }
+    },
+    "phone": "(505)-300-4951",
+    "email": "jauke.heerema@example.com",
+    "loginInfo": {
+      "username": "tinyswan203",
+      "password": "c2f5732982a280f98fbb875c3b8f1e1c47878c1efe41db65edfde20e2bb14e9b"
+    },
+    "birthdayInfo": { "dob": "1986-03-07T11:17:57.716Z", "age": 36 },
+    "balance": 91.77,
+    "inventory": [
+      {
+        "uid": "15816def-f78f-4167-8789-2b290a6e4844",
+        "brand": "Amana",
+        "item": "Humidifier",
+        "price": 40.01
+      },
+      {
+        "uid": "f7c5cd12-7640-412f-898d-36b52cffd6d0",
+        "brand": "Whirlpool",
+        "item": "Toaster and toaster ovens",
+        "price": 100.01
+      },
+      {
+        "uid": "df347b25-bf6d-490b-93c9-d5a8ead6b13d",
+        "brand": "Samsung",
+        "item": "Home server",
+        "price": 99.17
+      },
+      {
+        "uid": "66af2447-a19f-4a6c-a82e-16d3dff1e2ed",
+        "brand": "Electrolux",
+        "item": "Stove",
+        "price": 83.73
+      },
+      {
+        "uid": "d3f249dc-e170-4c56-8f55-8b893c4b3bbb",
+        "brand": "Admiral",
+        "item": "Evaporative cooler",
+        "price": 29.94
+      },
+      {
+        "uid": "6cffbbc6-9f67-41cc-96e1-69e684aa3fbf",
+        "brand": "KitchenAid",
+        "item": "Box mangle",
+        "price": 48.81
+      },
+      {
+        "uid": "5f134c66-529e-48ce-b041-69e880daaf11",
+        "brand": "Admiral",
+        "item": "Blender",
+        "price": 46.44
+      },
+      {
+        "uid": "41bd3c93-af05-429c-8df6-3a583ded6f14",
+        "brand": "Amana",
+        "item": "Hair iron",
+        "price": 27.84
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": [
+      "PremiumDeal740843",
+      "SpecialSale282788",
+      "GreatPromo218322",
+      "StellarDiscount497648",
+      "PremiumDeal309025",
+      "GoodSale326470",
+      "GreatSale643243",
+      "AwesomeCode497942",
+      "KillerDeal952333",
+      "IncrediblePromo705595",
+      "StellarPrice359816",
+      "SpecialPrice131826",
+      "IncredibleSavings295684"
+    ]
+  },
+  {
+    "name": { "firstName": "مهدي", "lastName": "سالاری" },
+    "gender": "male",
+    "address": {
+      "street": { "number": 528, "name": "هویزه" },
+      "city": "بوشهر",
+      "state": "زنجان",
+      "postalZip": 54583,
+      "cords": { "latitude": "57.1128", "longitude": "176.3021" }
+    },
+    "phone": "074-26419730",
+    "email": "mhdy.slry@example.com",
+    "loginInfo": {
+      "username": "organiclion456",
+      "password": "8bc65bebbfae874da4aa0a94fec3ad906ad82e1aa1421745cbc12d14f4c25b2c"
+    },
+    "birthdayInfo": { "dob": "1970-08-07T23:25:29.443Z", "age": 52 },
+    "balance": 425.99,
+    "inventory": [
+      {
+        "uid": "9e374503-007b-4ec8-816a-4045f5bdd340",
+        "brand": "KitchenAid",
+        "item": "Water heater",
+        "price": 75.46
+      },
+      {
+        "uid": "07186429-661d-4cc6-8f57-5d3dc8a2c453",
+        "brand": "Electrolux",
+        "item": "Dishwasher",
+        "price": 105
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": [
+      "KillerCode175213",
+      "GoodSavings646509",
+      "KillerSale569719",
+      "AwesomeSavings562088",
+      "GoodSavings394560",
+      "GoodSale547663",
+      "AmazingSale461374",
+      "IncrediblePrice220086",
+      "SweetPromotion383133",
+      "AwesomeDeal977206",
+      "SweetCode350713"
+    ]
+  },
+  {
+    "name": { "firstName": "Ortrud", "lastName": "Staab" },
+    "gender": "female",
+    "address": {
+      "street": { "number": 2385, "name": "Berliner Straße" },
+      "city": "Eschershausen",
+      "state": "Sachsen-Anhalt",
+      "postalZip": 11422,
+      "cords": { "latitude": "55.8155", "longitude": "-129.5586" }
+    },
+    "phone": "0593-2364585",
+    "email": "ortrud.staab@example.com",
+    "loginInfo": {
+      "username": "yellowladybug197",
+      "password": "4ea9f4297b060ddde19d07ed5cf945fb36a7ddc9223e97edc213c0a1a0f22b50"
+    },
+    "birthdayInfo": { "dob": "1994-04-12T00:23:06.864Z", "age": 28 },
+    "balance": 901.06,
+    "inventory": [
+      {
+        "uid": "87708593-0513-428d-ac86-dd318a12c5e0",
+        "brand": "Samsung",
+        "item": "Beverage opener",
+        "price": 114.8
+      },
+      {
+        "uid": "0cc0149c-9a1f-4d58-b118-c7b89e5b44ef",
+        "brand": "Electrolux",
+        "item": "Humidifier",
+        "price": 11.68
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": ["AwesomePrice899789", "AwesomeDeal477702"]
+  },
+  {
+    "name": { "firstName": "Josefine", "lastName": "Møller" },
+    "gender": "female",
+    "address": {
+      "street": { "number": 6260, "name": "Algade" },
+      "city": "Aarhus N",
+      "state": "Hovedstaden",
+      "postalZip": 90702,
+      "cords": { "latitude": "85.9345", "longitude": "166.3337" }
+    },
+    "phone": "66468099",
+    "email": "josefine.moller@example.com",
+    "loginInfo": {
+      "username": "sadzebra604",
+      "password": "7f7426cdde572811f3595d923124415ef0418b01428aeed66fd5c5269b654c54"
+    },
+    "birthdayInfo": { "dob": "1954-04-18T15:19:25.728Z", "age": 68 },
+    "balance": 443.16,
+    "inventory": [
+      {
+        "uid": "d193aaed-437f-4cca-827e-4fb248a242cf",
+        "brand": "Sharp",
+        "item": "Dishwasher",
+        "price": 43.26
+      },
+      {
+        "uid": "4527ce54-0f2d-49d4-956b-b9516052c9b3",
+        "brand": "Samsung",
+        "item": "Electric water boiler",
+        "price": 74.77
+      },
+      {
+        "uid": "a4857ca3-1704-4175-bece-4336dad6c0b1",
+        "brand": "Franke",
+        "item": "Central vacuum cleaner",
+        "price": 110.4
+      },
+      {
+        "uid": "aa86c99a-bd05-48c7-a517-e64d289b58db",
+        "brand": "Amana",
+        "item": "Water purifier",
+        "price": 100.84
+      },
+      {
+        "uid": "560a0c9e-1be9-482e-b09e-73e88aef824a",
+        "brand": "Sharp",
+        "item": "Television",
+        "price": 79.82
+      },
+      {
+        "uid": "d9c5c182-752b-4112-84c2-96e3a4ea5245",
+        "brand": "Amana",
+        "item": "Trouser press",
+        "price": 50.99
+      },
+      {
+        "uid": "4648cefb-dff5-437c-812c-9e112177521e",
+        "brand": "Electrolux",
+        "item": "Garbage disposal unit",
+        "price": 64.88
+      },
+      {
+        "uid": "ba9f68b4-190b-4258-8757-0aca0f0fdffd",
+        "brand": "Samsung",
+        "item": "Space heater",
+        "price": 32.15
+      },
+      {
+        "uid": "bcf0a328-651d-485d-89d2-bac6a757b3eb",
+        "brand": "LG",
+        "item": "Back boiler",
+        "price": 45.84
+      },
+      {
+        "uid": "e8154231-3d8d-428b-b901-ffbe7d6e42de",
+        "brand": "Admiral",
+        "item": "Flame supervision device",
+        "price": 55.9
+      },
+      {
+        "uid": "724e8708-280e-4bf3-be5b-4ddada3254a8",
+        "brand": "KitchenAid",
+        "item": "Fan heater",
+        "price": 115
+      },
+      {
+        "uid": "ac1f0078-a8d3-4e1f-b583-440ec2e53603",
+        "brand": "Whirlpool",
+        "item": "Mousetrap",
+        "price": 111.89
+      },
+      {
+        "uid": "7aa24979-5d81-47d5-8f74-4b6ac1b51220",
+        "brand": "LG",
+        "item": "Water heater",
+        "price": 57.69
+      },
+      {
+        "uid": "173ad725-0939-4c9e-ac45-c67a541dea9e",
+        "brand": "Amana",
+        "item": "Microwave oven",
+        "price": 45.6
+      },
+      {
+        "uid": "add5a40d-f32b-4fca-bb90-cbb8e069c6b4",
+        "brand": "LG",
+        "item": "Icebox",
+        "price": 56.55
+      },
+      {
+        "uid": "c1b90e5f-098f-4086-8475-6360d2b31f58",
+        "brand": "IKEA",
+        "item": "Electric water boiler",
+        "price": 49.28
+      },
+      {
+        "uid": "29681e42-5dee-40d5-9dc2-327dcb75494c",
+        "brand": "Sharp",
+        "item": "Patio heater",
+        "price": 105.72
+      },
+      {
+        "uid": "50d810cb-e59f-4e7c-894d-04c4d58512bf",
+        "brand": "IKEA",
+        "item": "Air ioniser",
+        "price": 38.04
+      },
+      {
+        "uid": "68576a58-37ea-4665-acc6-0abfc1136f97",
+        "brand": "Franke",
+        "item": "Water cooker",
+        "price": 32.75
+      },
+      {
+        "uid": "538402e6-8354-4e54-b6f5-cf9a3fc660d9",
+        "brand": "Amana",
+        "item": "Dishwasher",
+        "price": 59.3
+      },
+      {
+        "uid": "0ac218f6-9249-49d4-b48a-5c8067bee21e",
+        "brand": "Blue Star",
+        "item": "Electric water boiler",
+        "price": 114.57
+      },
+      {
+        "uid": "965abc2a-1866-4f88-a077-c2c842646520",
+        "brand": "Sharp",
+        "item": "Steam mop",
+        "price": 77.13
+      },
+      {
+        "uid": "c37f093a-df4f-4004-86e1-e05345344200",
+        "brand": "Fagor",
+        "item": "Bachelor griller",
+        "price": 111.66
+      },
+      {
+        "uid": "cb5300fb-7794-4d21-acb2-e33c36a2229e",
+        "brand": "Fagor",
+        "item": "Futon dryer",
+        "price": 115.82
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": ["CoolCode503887"]
+  },
+  {
+    "name": { "firstName": "Aiden", "lastName": "Mendoza" },
+    "gender": "male",
+    "address": {
+      "street": { "number": 3540, "name": "Springfield Road" },
+      "city": "Enniscorthy",
+      "state": "Kildare",
+      "postalZip": 45366,
+      "cords": { "latitude": "-80.3583", "longitude": "124.4923" }
+    },
+    "phone": "041-917-7512",
+    "email": "aiden.mendoza@example.com",
+    "loginInfo": {
+      "username": "sadgorilla350",
+      "password": "afc05e309a765331d363b11f04e2a9145d70b1d40a5d616eb74cf23051a252b5"
+    },
+    "birthdayInfo": { "dob": "1947-03-05T14:36:58.782Z", "age": 75 },
+    "balance": 435.23,
+    "inventory": null,
+    "isSeller": false,
+    "promoCodes": [
+      "GoodDiscount343481",
+      "SpecialPrice783309",
+      "SpecialSavings560443",
+      "IncredibleSale183289",
+      "KillerPromo263604"
+    ]
+  },
+  {
+    "name": { "firstName": "Carol", "lastName": "Banks" },
+    "gender": "female",
+    "address": {
+      "street": { "number": 2328, "name": "The Green" },
+      "city": "Nenagh",
+      "state": "Dún Laoghaire–Rathdown",
+      "postalZip": 71672,
+      "cords": { "latitude": "57.9914", "longitude": "-160.4362" }
+    },
+    "phone": "051-968-4215",
+    "email": "carol.banks@example.com",
+    "loginInfo": {
+      "username": "goldenfrog983",
+      "password": "af15818e045ac1cc167225abb74748f00fb751cf1a1055f9ff18a4dd3d392446"
+    },
+    "birthdayInfo": { "dob": "1981-11-28T11:02:48.603Z", "age": 41 },
+    "balance": 712.82,
+    "inventory": [
+      {
+        "uid": "42555ca0-849b-4668-b13b-a244611b44c7",
+        "brand": "Bosch",
+        "item": "Central vacuum cleaner",
+        "price": 67.41
+      },
+      {
+        "uid": "7eb7814d-7378-4326-94ad-7dfcd3382414",
+        "brand": "Whirlpool",
+        "item": "Paper shredder",
+        "price": 46.06
+      },
+      {
+        "uid": "66893a35-c087-461b-9af1-ad9b6067f148",
+        "brand": "Siemens",
+        "item": "Vacuum cleaner",
+        "price": 50.52
+      },
+      {
+        "uid": "2c48b0d8-207c-4e60-9d85-fb9159515feb",
+        "brand": "Amana",
+        "item": "HVAC",
+        "price": 91.57
+      },
+      {
+        "uid": "119ad788-0cb7-4a41-8d6d-39c411d74c42",
+        "brand": "Siemens",
+        "item": "Hair iron",
+        "price": 111.38
+      },
+      {
+        "uid": "6fcb8f7b-9161-4f01-999d-603e94c3cff7",
+        "brand": "Samsung",
+        "item": "Humidifier",
+        "price": 44.53
+      },
+      {
+        "uid": "96b90950-a045-4716-b24e-c78939a3f841",
+        "brand": "Electrolux",
+        "item": "Drawer dishwasher",
+        "price": 69.38
+      },
+      {
+        "uid": "8f1ae509-7173-4ef9-be8e-46dded892076",
+        "brand": "Blue Star",
+        "item": "Aroma lamp",
+        "price": 46.24
+      },
+      {
+        "uid": "eabf0811-1b73-4264-971e-88d0dee94b2c",
+        "brand": "Bosch",
+        "item": "Dish draining closet",
+        "price": 33.88
+      },
+      {
+        "uid": "1937f834-c7e3-4daa-9a5f-2926d5e64180",
+        "brand": "Admiral",
+        "item": "Attic fan",
+        "price": 91.84
+      },
+      {
+        "uid": "911482a0-ba13-4c1c-b1c2-8aaa0bf05840",
+        "brand": "KitchenAid",
+        "item": "Clothes dryer",
+        "price": 12.51
+      },
+      {
+        "uid": "55152865-3aad-4134-a06e-fcf988cc81e1",
+        "brand": "Siemens",
+        "item": "Can opener",
+        "price": 45.62
+      },
+      {
+        "uid": "a41115bb-ead4-4ba5-8ea0-9d0ddb0f9124",
+        "brand": "IKEA",
+        "item": "Oil heater",
+        "price": 55.9
+      },
+      {
+        "uid": "b75d132c-8841-4e61-886a-c46e3607ca7d",
+        "brand": "Fagor",
+        "item": "Air purifier",
+        "price": 124.56
+      },
+      {
+        "uid": "f7d3fb81-8f69-4eae-bf83-d7f9fea54ec3",
+        "brand": "Samsung",
+        "item": "Go-to-bed matchbox",
+        "price": 47.89
+      },
+      {
+        "uid": "6689ca4e-3d48-433c-85ab-b5b0319e8538",
+        "brand": "Fagor",
+        "item": "Clothes dryer",
+        "price": 114.13
+      },
+      {
+        "uid": "fb37a4bf-ab27-40fd-9e8a-01d6b95d7106",
+        "brand": "Bosch",
+        "item": "Water heater",
+        "price": 39.95
+      },
+      {
+        "uid": "dffff46b-a90f-4746-ba7d-43fb22d0e7b7",
+        "brand": "IKEA",
+        "item": "Go-to-bed matchbox",
+        "price": 67.7
+      },
+      {
+        "uid": "2d3f31ad-8ce3-4a12-973d-a570d72a8e4e",
+        "brand": "LG",
+        "item": "Fan heater",
+        "price": 42.33
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": [
+      "IncredibleSavings839359",
+      "AmazingPromotion387580",
+      "AwesomePrice812348",
+      "AwesomePrice905192",
+      "CoolPromo534594"
+    ]
+  },
+  {
+    "name": { "firstName": "Abbey", "lastName": "Bishop" },
+    "gender": "female",
+    "address": {
+      "street": { "number": 565, "name": "Pearse Street" },
+      "city": "Mullingar",
+      "state": "Cavan",
+      "postalZip": 23663,
+      "cords": { "latitude": "-66.3251", "longitude": "-25.9857" }
+    },
+    "phone": "051-641-6899",
+    "email": "abbey.bishop@example.com",
+    "loginInfo": {
+      "username": "bigfrog661",
+      "password": "7f55e30ce705d6c8ca233d7606de68f0354a6881c73238e0324707fcd16e6ee6"
+    },
+    "birthdayInfo": { "dob": "1946-03-29T08:33:12.276Z", "age": 76 },
+    "balance": 543.69,
+    "inventory": [
+      {
+        "uid": "8e9cd779-78df-411a-818b-bbf649ad20f0",
+        "brand": "Bosch",
+        "item": "Flame supervision device",
+        "price": 112.06
+      },
+      {
+        "uid": "ab1bcc30-5157-4f30-a5cf-1567ec35bbe8",
+        "brand": "Fagor",
+        "item": "Forced-air",
+        "price": 118.07
+      },
+      {
+        "uid": "f68bc52f-e13c-4395-99e7-74efecf3499f",
+        "brand": "Sharp",
+        "item": "Clothes iron",
+        "price": 42.76
+      },
+      {
+        "uid": "ecf47c20-71b8-4065-bc8d-410e3aeef86a",
+        "brand": "Siemens",
+        "item": "Forced-air",
+        "price": 87.09
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": []
+  },
+  {
+    "name": { "firstName": "الینا", "lastName": "جعفری" },
+    "gender": "female",
+    "address": {
+      "street": { "number": 5981, "name": "میدان امام خمینی" },
+      "city": "بجنورد",
+      "state": "فارس",
+      "postalZip": 77422,
+      "cords": { "latitude": "-55.9902", "longitude": "-153.9055" }
+    },
+    "phone": "069-49783545",
+    "email": "lyn.jaafry@example.com",
+    "loginInfo": {
+      "username": "purpleladybug563",
+      "password": "6073802b7f1d75d525382ce31a8c597cb1e0bbe8757901ca638242f64a234c84"
+    },
+    "birthdayInfo": { "dob": "1963-02-01T17:32:50.821Z", "age": 59 },
+    "balance": 964.2,
+    "inventory": null,
+    "isSeller": false,
+    "promoCodes": ["StellarSale797776", "StellarPromotion939333"]
+  },
+  {
+    "name": { "firstName": "Hudson", "lastName": "Turner" },
+    "gender": "male",
+    "address": {
+      "street": { "number": 9857, "name": "Moray Place" },
+      "city": "Invercargill",
+      "state": "West Coast",
+      "postalZip": 77318,
+      "cords": { "latitude": "-59.8654", "longitude": "142.1034" }
+    },
+    "phone": "(472)-258-5836",
+    "email": "hudson.turner@example.com",
+    "loginInfo": {
+      "username": "bigmouse993",
+      "password": "b0c396b1982a1900a5663f2ff644177e050909305970d6aa230e69055508982b"
+    },
+    "birthdayInfo": { "dob": "1964-05-11T04:11:21.866Z", "age": 58 },
+    "balance": 968.86,
+    "inventory": [
+      {
+        "uid": "fe3292b4-290d-4c4f-947d-fce6cd3f5438",
+        "brand": "LG",
+        "item": "Dish draining closet",
+        "price": 78.19
+      },
+      {
+        "uid": "5cf66629-9385-4c3f-bc39-9ad99f46996a",
+        "brand": "Admiral",
+        "item": "Central vacuum cleaner",
+        "price": 87.85
+      },
+      {
+        "uid": "f8e08625-1756-4fe8-9e31-b4c25b7f2622",
+        "brand": "LG",
+        "item": "Exhaust hood",
+        "price": 122.27
+      },
+      {
+        "uid": "5ae9f670-9d9c-4d51-888f-48b350791c14",
+        "brand": "Bosch",
+        "item": "Washing machine",
+        "price": 18.3
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": [
+      "KillerDiscount357504",
+      "KillerCode945356",
+      "StellarPrice346998",
+      "SweetSavings407376",
+      "PremiumDiscount366694",
+      "CoolDiscount861246",
+      "SweetDeal340233",
+      "AwesomeSale417059"
+    ]
+  },
+  {
+    "name": { "firstName": "Otto", "lastName": "Hatala" },
+    "gender": "male",
+    "address": {
+      "street": { "number": 8470, "name": "Bulevardi" },
+      "city": "Pori",
+      "state": "Pirkanmaa",
+      "postalZip": 12258,
+      "cords": { "latitude": "62.3393", "longitude": "136.5027" }
+    },
+    "phone": "02-880-744",
+    "email": "otto.hatala@example.com",
+    "loginInfo": {
+      "username": "happytiger943",
+      "password": "435894c19d9c1fbac041d8f8f6c27eb32a6f6aa8d1fc5483460ca8e3e6fdab91"
+    },
+    "birthdayInfo": { "dob": "1994-04-03T08:22:03.438Z", "age": 28 },
+    "balance": 757.93,
+    "inventory": [
+      {
+        "uid": "02dcf802-089c-4f50-ae15-4c1973f6fc86",
+        "brand": "KitchenAid",
+        "item": "Dish draining closet",
+        "price": 52.39
+      },
+      {
+        "uid": "6a965762-c976-441e-8382-653ed1257379",
+        "brand": "IKEA",
+        "item": "Hair dryer",
+        "price": 43.25
+      },
+      {
+        "uid": "1b2ee74a-f1f0-4a9b-999a-86aa9839a94d",
+        "brand": "Admiral",
+        "item": "Kimchi refrigerator",
+        "price": 36.73
+      },
+      {
+        "uid": "53970843-5131-4979-8324-19b60e22134e",
+        "brand": "LG",
+        "item": "Mangle (machine)",
+        "price": 12.17
+      },
+      {
+        "uid": "496865fd-f7a4-40d3-a10e-9d24f0295a2a",
+        "brand": "Franke",
+        "item": "Can opener",
+        "price": 69.31
+      },
+      {
+        "uid": "0003fb80-36b4-4c92-80b9-a85a5bfeb9f9",
+        "brand": "Siemens",
+        "item": "Can opener",
+        "price": 98.44
+      },
+      {
+        "uid": "c4fafa33-852f-4e95-9351-4fda15767a5f",
+        "brand": "Whirlpool",
+        "item": "Gas appliance",
+        "price": 85.85
+      },
+      {
+        "uid": "b6a1d7ad-566f-471d-8acd-43d840f997b4",
+        "brand": "Samsung",
+        "item": "Attic fan",
+        "price": 91.56
+      },
+      {
+        "uid": "0b8fd48a-be41-40ed-b20b-e861396aec2a",
+        "brand": "KitchenAid",
+        "item": "Mousetrap",
+        "price": 13.51
+      },
+      {
+        "uid": "1a1345ac-4911-4f51-956e-6b5b6c700c12",
+        "brand": "LG",
+        "item": "Can opener",
+        "price": 109.45
+      },
+      {
+        "uid": "217d0529-7537-49ac-bd80-407a8ef8b170",
+        "brand": "Sharp",
+        "item": "Tie press",
+        "price": 73.88
+      },
+      {
+        "uid": "8063a031-417c-43d6-968b-f7074b5ef044",
+        "brand": "Samsung",
+        "item": "Microwave oven",
+        "price": 27.15
+      },
+      {
+        "uid": "d713fb3e-11e8-4b57-97f2-4efa11f28297",
+        "brand": "Samsung",
+        "item": "Washing machine",
+        "price": 113.22
+      },
+      {
+        "uid": "fa3298f3-6ee1-4200-9dda-7be3623df7dc",
+        "brand": "Franke",
+        "item": "Box mangle",
+        "price": 123.76
+      },
+      {
+        "uid": "fe44caab-a130-4cfa-9c87-54012d362d21",
+        "brand": "LG",
+        "item": "Attic fan",
+        "price": 71.6
+      },
+      {
+        "uid": "469dddaf-fab5-4021-923b-1f33f15f99b3",
+        "brand": "LG",
+        "item": "Fan heater",
+        "price": 116.12
+      },
+      {
+        "uid": "0e32dd87-3465-49e9-b8f1-e4fedb61cbe3",
+        "brand": "Franke",
+        "item": "Forced-air",
+        "price": 16.54
+      }
+    ],
+    "isSeller": true,
+    "promoCodes": [
+      "AmazingPromotion141998",
+      "SpecialSale111768",
+      "AmazingPromotion699297",
+      "GreatDiscount695773"
+    ]
+  }
+]

@@ -16,6 +16,7 @@ async function createData() {
 
   for (let i = 0; i < numberOfUsers; i++) {
     console.log(`${i + 1}/${numberOfUsers} users created`);
+
     let seller = rndBool();
     let inventory = await rndInventory();
     let codes = await rndPromoCodes();
@@ -29,6 +30,7 @@ async function createData() {
         street: getUserInfo.results[i].location.street,
         city: getUserInfo.results[i].location.city,
         state: getUserInfo.results[i].location.state,
+        country: getUserInfo.results[i].location.country,
         postalZip: getUserInfo.results[i].location.postcode,
         cords: {
           latitude: getUserInfo.results[i].location.coordinates.latitude,
@@ -56,7 +58,7 @@ async function createData() {
 
   let dictstring = JSON.stringify(dataArray);
 
-  fs.writeFile("data.json", dictstring, function (err, result) {
+  fs.writeFile("generated-records.json", dictstring, function (err, result) {
     if (err) console.log("error", err);
   });
 }

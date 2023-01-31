@@ -1,0 +1,152 @@
+[
+  {
+    "branch_id": "001",
+    "street": { "number": 1336, "name": "Washington St" },
+    "city": "Phoenix",
+    "state": "AZ",
+    "phone": "624-875-7112",
+    "postalZip": "85013",
+    "primary_accounts": [
+      "MDB310054629",
+      "MDB643731035",
+      "MDB333829449",
+      "MDB951086017",
+      "MDB546986470"
+    ]
+  },
+  {
+    "branch_id": "002",
+    "street": { "number": 4520, "name": "Odeska St." },
+    "city": "San Fransico",
+    "state": "CA",
+    "phone": "(968) 112-0289",
+    "postalZip": "93201",
+    "primary_accounts": [
+      "MDB310054629",
+      "MDB643731035",
+      "MDB333829449",
+      "MDB951086017",
+      "MDB546986470"
+    ]
+  },
+  {
+    "branch_id": "003",
+    "street": { "number": 3281, "name": "Avenida de Castilla" },
+    "city": "Tucson",
+    "state": "AZ",
+    "phone": "969-512-301",
+    "postalZip": "85257",
+    "primary_accounts": [
+      "MDB310054629",
+      "MDB643731035",
+      "MDB333829449",
+      "MDB951086017",
+      "MDB546986470"
+    ]
+  },
+  {
+    "branch_id": "004",
+    "street": { "number": 5390, "name": "12th Ave." },
+    "city": "New York City",
+    "state": "NY",
+    "phone": "(231)-456-9641",
+    "postalZip": "83644",
+    "primary_accounts": [
+      "MDB310054629",
+      "MDB643731035",
+      "MDB333829449",
+      "MDB951086017",
+      "MDB546986470"
+    ]
+  },
+  {
+    "branch_id": "005",
+    "street": { "number": 7592, "name": "Jack Rabbit Road" },
+    "city": "Jackson Hole",
+    "state": "WY",
+    "phone": "(296) I53-2879",
+    "postalZip": "88192",
+    "primary_accounts": [
+      "MDB310054629",
+      "MDB643731035",
+      "MDB333829449",
+      "MDB951086017",
+      "MDB546986470"
+    ]
+  },
+  {
+    "branch_id": "006",
+    "street": { "number": 7382, "name": "Paris Drive" },
+    "city": "Detroit",
+    "state": "MI",
+    "phone": "(788)-312-7834",
+    "postalZip": "56413",
+    "primary_accounts": [
+      "MDB310054629",
+      "MDB643731035",
+      "MDB333829449",
+      "MDB951086017",
+      "MDB546986470"
+    ]
+  },
+  {
+    "branch_id": "007",
+    "street": { "number": 4119, "name": "Port Street" },
+    "city": "Columbus",
+    "state": "OH",
+    "phone": "(966) 860-0670",
+    "postalZip": "34512",
+    "primary_accounts": [
+      "MDB310054629",
+      "MDB643731035",
+      "MDB333829449",
+      "MDB951086017",
+      "MDB546986470"
+    ]
+  },
+  {
+    "branch_id": "008",
+    "street": { "number": 6077, "name": "Avenida de La Albufera" },
+    "city": "El Paso",
+    "state": "TX",
+    "phone": "(938)-233-521",
+    "postalZip": "65832",
+    "primary_accounts": [
+      "MDB310054629",
+      "MDB643731035",
+      "MDB333829449",
+      "MDB951086017",
+      "MDB546986470"
+    ]
+  },
+  {
+    "branch_id": "009",
+    "street": { "number": 7394, "name": "N. 2nd St." },
+    "city": "Scottsdale",
+    "state": "AZ",
+    "phone": "(505)-928-9469",
+    "postalZip": "85251",
+    "primary_accounts": [
+      "MDB310054629",
+      "MDB643731035",
+      "MDB333829449",
+      "MDB951086017",
+      "MDB546986470"
+    ]
+  },
+  {
+    "branch_id": "010",
+    "street": { "number": 4114, "name": "Gator Drive" },
+    "city": "Orlando",
+    "state": "FL",
+    "phone": "(968)-112-0289",
+    "postalZip": "98968",
+    "primary_accounts": [
+      "MDB310054629",
+      "MDB643731035",
+      "MDB333829449",
+      "MDB951086017",
+      "MDB546986470"
+    ]
+  }
+]

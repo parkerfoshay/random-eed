@@ -11,22 +11,26 @@ const users = require("./accounts.json");
 async function createData() {
   let dataArray = [];
   let numberOfUsers = 10;
+  let acountIds = [];
+  let counter = 0;
   let getUserInfo = await fetchAPI(
     `https://randomuser.me/api/?results=${numberOfUsers}`
   );
 
-  for (let i = 0; i < numberOfUsers; i++) {
-    let acountIds = [];
-    let counter = 0;
-    for (let j = 0; j < 5; j++) {
-      if (counter > users.length - 1) {
-        return;
-      }
-      acountIds.push(users[counter].account_id);
-      counter++;
+  for (let j = 0; j < users.length - 1; j++) {
+    if (counter > users.length - 1) {
+      return;
     }
-    console.log(`${i + 1}/${numberOfUsers} users created`);
-    console.log(acountIds);
+    acountIds.push(users[counter].account_id);
+    counter++;
+  }
+
+  let start = 0;
+  let end = 5;
+
+  for (let i = 0; i < numberOfUsers; i++) {
+    console.log(start, end);
+    console.log(acountIds.slice(start, end));
     let dataObj = {
       branch_id: `00${i + 1}`,
       street: getUserInfo.results[i].location.street,
@@ -34,8 +38,11 @@ async function createData() {
       state: getUserInfo.results[i].location.state,
       phone: getUserInfo.results[i].phone,
       postalZip: getUserInfo.results[i].location.postcode,
-      primary_accounts: acountIds,
+      primary_accounts: acountIds.slice(start, end),
     };
+
+    start += 5;
+    end += 5;
 
     dataArray.push(dataObj);
   }
